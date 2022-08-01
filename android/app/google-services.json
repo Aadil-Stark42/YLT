@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "276693574654",
+    "project_id": "ylt-app",
+    "storage_bucket": "ylt-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276693574654:android:bc232ce2cdbc45eca616af",
+        "android_client_info": {
+          "package_name": "com.ylt.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276693574654-vqgh1n7pc2goicl18ir160oaa9cuts72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOjlpfZVrsJEu5wLdDpjKhf0dkKIG1LDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276693574654-vqgh1n7pc2goicl18ir160oaa9cuts72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
